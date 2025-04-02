@@ -14,16 +14,3 @@ This is my personal portfolio website, showcasing my skills, projects, and exper
 ✔️ Responsive design  
 ✔️ Interactive UI  
 ✔️ Contact form integration  
-
-## 🚀 Live Demo  
-[Click here to view](https://yourportfolio.com)  
-
-## 📷 Screenshots  
-![Portfolio Screenshot](link-to-image)  
-
-## 📂 Installation  
-```bash
-git clone https://github.com/Selvamri/Selvam-portfoli0-main.git
-cd Selvam-portfoli0-main
-npm install
-npm start
